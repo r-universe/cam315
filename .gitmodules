@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "otuSummary"]
 	path = otuSummary
 	url = https://github.com/cam315/otusummary
-	shallow = true
-	registered = true
